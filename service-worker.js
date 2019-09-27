@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.db3253473124e31349b4d5d6fd4cf141.js"
+  "/precache-manifest.80a60473a067a985000add95123792ab.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "gwentcard"});
